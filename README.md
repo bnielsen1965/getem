@@ -34,6 +34,7 @@ require that Java is installed before you can run GetEm.
 
 Download the getem.jar file to your computer and from a command 
 line you can use the following command to run the game.
+
 java -jar getem.jar
 
 
@@ -47,6 +48,7 @@ the jar creation step.
 To compile getem change your working directory to the source trunk
 below the getem directory that contains all the java source files 
 and execute the following command.
+
 javac -classpath .:getem/* getem/*.java
 
 You may receive a warning during the compile step but there should
@@ -63,6 +65,7 @@ You should now have the file getem.jar in your source trunk.
 # RUNNING
 
 Use the following command to run getem.
+
 java -jar getem.jar
 
 
